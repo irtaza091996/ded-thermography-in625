@@ -49,5 +49,5 @@ Three key metrics extracted per layer across all 4 measurement heights:
 
 ## Demo
 
-<video src="Heat Camera.mp4" controls width="100%"></video>
+![DED thermography demo](figures/demo.gif)
 
