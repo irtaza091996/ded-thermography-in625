@@ -47,7 +47,19 @@ Three key metrics extracted per layer across all 4 measurement heights:
 
 ---
 
-## Demo
+## Demo - Live IR Feed
 
 <img src="figures/demo.gif" width="800"/>
+
+---
+
+## Demo - Temperature Traces (40 Deposition Layers)
+
+| 0 mm - Meltpool Surface | 1 mm from Meltpool |
+|---|---|
+| <img src="figures/demo_hz0.gif" width="420"/> | <img src="figures/demo_hz1.gif" width="420"/> |
+
+| 3 mm from Meltpool | 6 mm from Meltpool |
+|---|---|
+| <img src="figures/demo_hz3.gif" width="420"/> | <img src="figures/demo_hz6.gif" width="420"/> |
 
