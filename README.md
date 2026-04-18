@@ -49,5 +49,5 @@ Three key metrics extracted per layer across all 4 measurement heights:
 
 ## Demo
 
-![DED thermography demo](figures/demo.gif)
+<img src="figures/demo.gif" width="800"/>
 
