@@ -7,7 +7,7 @@ Thermal data from an **InfraTec IRBIS 3** camera was processed and used to valid
 
 ---
 
-## Figures
+## Analytics
 
 ### Temperature Traces at the Meltpool Surface
 All 40 deposition layers overlaid. Colour gradient blue to red shows layer progression.
