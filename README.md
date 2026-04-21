@@ -63,4 +63,4 @@ Three key metrics extracted per layer across all 4 measurement heights:
 |---|---|
 | <img src="figures/demo_hz3.gif" width="420"/> | <img src="figures/demo_hz6.gif" width="420"/> |
 
-<!-- _ka:3 -->
+<!-- _ka:4 -->
